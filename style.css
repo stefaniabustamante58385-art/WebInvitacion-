@@ -162,24 +162,14 @@ nav-logo a {
 }
 
 /* Countdown */
-/* ---------- Countdown ---------- */
 .countdown-container {
   display: flex;
   justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
   gap: 2rem;
   font-size: 1.5rem;
   font-weight: bold;
   color: #d7a4bd;
-  margin-top: 2rem;
-  padding: 1rem 2rem;
-  max-width: 100%;
-  width: 100%;
-  word-break: break-word;
-  text-align: center;
 }
-
 
 /* Contacto */
 .contact-container {
@@ -218,4 +208,6 @@ nav-logo a {
     text-align: center;
   }
 }
+
+
 
