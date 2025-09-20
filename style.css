@@ -7,15 +7,15 @@
 }
 
 body {
-  background: #fffafc;
-  color: #4a4a4a;
+  background: #e0f7fa; /* Azul suave */
+  color: #00695c; /* Azul oscuro suave */
   line-height: 1.6;
 }
 
 /* Navbar */
 .navbar {
-  background: #f7cfe3;
-  color: #fff;
+  background: #80deea; /* Azul pastel */
+  color: #ffffff;
   padding: 1rem 2rem;
   position: sticky;
   top: 0;
@@ -47,7 +47,7 @@ nav-logo a {
 }
 
 .nav-link:hover {
-  color: #ffe5b4;
+  color: #004d40; /* Azul oscuro */
 }
 
 /* Sections */
@@ -58,7 +58,7 @@ nav-logo a {
 
 .section-title {
   font-size: 2rem;
-  color: #d7c6f4;
+  color: #004d40; /* Azul oscuro */
   margin-bottom: 2rem;
   position: relative;
 }
@@ -68,7 +68,7 @@ nav-logo a {
   display: block;
   width: 80px;
   height: 3px;
-  background: #d7c6f4;
+  background: #004d40; /* Azul oscuro */
   margin: 0.5rem auto 0;
 }
 
@@ -154,7 +154,7 @@ nav-logo a {
 }
 
 .contact-card {
-  background: #d4f4dd;
+  background: #b2ebf2; /* Azul muy claro */
   padding: 1rem;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -168,7 +168,7 @@ nav-logo a {
   gap: 2rem;
   font-size: 1.5rem;
   font-weight: bold;
-  color: #d7a4bd;
+  color: #004d40; /* Azul oscuro */
 }
 
 /* Contacto */
@@ -182,15 +182,15 @@ nav-logo a {
 .contact-card {
   width: 350px;
   text-align: center;
-  background: #cce7f5;
+  background: #b2ebf2; /* Azul muy claro */
   padding: 1rem;
   border-radius: 10px;
 }
 
 /* Footer */
 .footer {
-  background: #ffe5b4;
-  color: #4a4a4a;
+  background: #80deea; /* Azul pastel */
+  color: #00695c; /* Azul oscuro suave */
   text-align: center;
   padding: 1rem;
   margin-top: 3rem;
@@ -208,6 +208,8 @@ nav-logo a {
     text-align: center;
   }
 }
+
+
 
 
 
