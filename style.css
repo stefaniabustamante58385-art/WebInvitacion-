@@ -1,3 +1,8 @@
+
+ 
+  
+
+ 
 /* General */
 * {
   margin: 0;
@@ -189,7 +194,7 @@ nav-logo a {
 
 /* Footer */
 .footer {
-  background: #80deea; /* Azul pastel */
+  background: #80deea; /* Azul pastel (igual a la barra de navegación) */
   color: #00695c; /* Azul oscuro suave */
   text-align: center;
   padding: 1rem;
@@ -208,6 +213,7 @@ nav-logo a {
     text-align: center;
   }
 }
+
 
 
 
